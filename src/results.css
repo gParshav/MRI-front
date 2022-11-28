@@ -1,0 +1,208 @@
+.resukts-container {
+  min-height: 100vh;
+}
+.resukts-resukts {
+  width: 100%;
+  height: auto;
+  display: flex;
+  padding: 0 30px;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.resukts-results {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.resukts-r-esults1 {
+  width: 1284px;
+  height: 932.444091796875px;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.resukts-logo-grp {
+  top: 0px;
+  left: 0px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+}
+.resukts-i-m-a-g-e360f3237066646xf-x-xctzd-s9o-o-ox-md-ms-gc1fsom-gm-ga-e-c {
+  width: 380px;
+  height: 199px;
+  position: relative;
+  border-color: transparent;
+  margin-right: -107px;
+}
+.resukts-text {
+  color: rgba(0, 207, 189, 1);
+  height: auto;
+  font-size: 59px;
+  align-self: auto;
+  font-style: Black;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.resukts-text01 {
+  color: rgba(0, 207, 189, 1);
+}
+.resukts-frame13 {
+  top: 88.5927734375px;
+  left: 833.832763671875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.resukts-text03 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 26px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 67px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.resukts-text05 {
+  color: rgba(0, 207, 189, 1);
+  height: auto;
+  font-size: 26px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 67px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.resukts-text07 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 26px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.resukts-signupbutton {
+  top: 862.444091796875px;
+  left: 532.601318359375px;
+  display: flex;
+  padding: 17px 36px;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  box-sizing: content-box;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 20px;
+  background-color: rgba(0, 207, 189, 1);
+}
+.resukts-text09 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 30px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.resukts-frame14 {
+  top: 208.700439453125px;
+  left: 99.948486328125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.resukts-text11 {
+  color: rgba(43, 43, 43, 1);
+  height: auto;
+  font-size: 45px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 31px;
+  text-decoration: none;
+}
+.resukts-images {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.resukts-rectangle6 {
+  width: 380px;
+  height: 380px;
+  position: relative;
+  border-color: transparent;
+  margin-right: 22px;
+  border-radius: 10px;
+}
+.resukts-rectangle7 {
+  width: 380px;
+  height: 380px;
+  position: relative;
+  border-color: transparent;
+  margin-right: 22px;
+  border-radius: 10px;
+}
+.resukts-rectangle8 {
+  width: 380px;
+  height: 380px;
+  position: relative;
+  border-color: transparent;
+  border-radius: 10px;
+}

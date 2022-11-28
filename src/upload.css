@@ -1,0 +1,419 @@
+.upload-container {
+  min-height: 100vh;
+}
+.upload-upload {
+  width: 100%;
+  height: auto;
+  display: flex;
+  padding: 0 30px;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.upload-upload1 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.upload-upload2 {
+  width: 1280px;
+  height: 979.444091796875px;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.upload-logo-grp {
+  top: 0px;
+  left: 0px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+}
+.upload-i-m-a-g-e360f3237066646xf-x-xctzd-s9o-o-ox-md-ms-gc1fsom-gm-ga-e-c {
+  width: 380px;
+  height: 207px;
+  position: relative;
+  border-color: transparent;
+  margin-right: -130px;
+}
+.upload-text {
+  color: rgba(0, 207, 189, 1);
+  height: auto;
+  font-size: 59px;
+  align-self: auto;
+  font-style: Black;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.upload-text01 {
+  color: rgba(0, 207, 189, 1);
+}
+.upload-frame8 {
+  top: 88.5927734375px;
+  left: 833.832763671875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.upload-text03 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 26px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 67px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.upload-text05 {
+  color: rgba(0, 207, 189, 1);
+  height: auto;
+  font-size: 26px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 67px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.upload-text07 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 26px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.upload-frame9 {
+  top: 208.700439453125px;
+  left: 99.948486328125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.upload-text09 {
+  color: rgba(43, 43, 43, 1);
+  height: auto;
+  font-size: 45px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 29px;
+  text-decoration: none;
+}
+.upload-rectangle4 {
+  width: 1180px;
+  height: 559px;
+  position: relative;
+  border-color: transparent;
+  border-radius: 55px;
+}
+.upload-dottedbox {
+  top: 334.65087890625px;
+  left: 142.510498046875px;
+  display: flex;
+  padding: 41px 107px;
+  position: absolute;
+  box-sizing: content-box;
+  align-items: center;
+  border-color: rgba(0, 95, 173, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 55px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.upload-group {
+  width: 104px;
+  height: 90.1497573852539px;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 26px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.upload-vector {
+  top: 57.723777770996094px;
+  left: -1.8189894035458565e-12px;
+  width: 104px;
+  height: 32px;
+  position: absolute;
+}
+.upload-vector1 {
+  top: -1.8189894035458565e-12px;
+  left: 29.179338455200195px;
+  width: 45px;
+  height: 71px;
+  position: absolute;
+}
+.upload-text11 {
+  color: rgba(43, 43, 43, 1);
+  height: auto;
+  font-size: 26px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 26px;
+  text-decoration: none;
+}
+.upload-text13 {
+  color: rgba(43, 43, 43, 1);
+  height: auto;
+  font-size: 26px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 26px;
+  text-decoration: none;
+}
+.upload-signupbutton {
+  width: 180px;
+  height: 70.56700897216797px;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 26px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(0, 207, 189, 1);
+}
+.upload-text15 {
+  top: 17.283447265625px;
+  left: 40px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.upload-text17 {
+  color: rgba(43, 43, 43, 1);
+  height: auto;
+  font-size: 22px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.upload-signupbutton1 {
+  top: 909.444091796875px;
+  left: 573.00634765625px;
+  display: flex;
+  padding: 17px 40px;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  box-sizing: content-box;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 20px;
+  background-color: rgba(0, 207, 189, 1);
+}
+.upload-text19 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 30px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.upload-text21 {
+  top: 334.65087890625px;
+  left: 770.332763671875px;
+  color: rgba(43, 43, 43, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.upload-frame12 {
+  top: 417.22412109375px;
+  left: 773.457763671875px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+}
+.upload-vector2 {
+  width: 52px;
+  height: 68px;
+  position: relative;
+  margin-right: 35px;
+}
+.upload-text23 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 26px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.upload-frame11 {
+  top: 513.7353515625px;
+  left: 773.457763671875px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+}
+.upload-vector3 {
+  width: 52px;
+  height: 66px;
+  position: relative;
+  margin-right: 35px;
+}
+.upload-text25 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 26px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.upload-frame10 {
+  top: 610.059814453125px;
+  left: 773.457763671875px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+}
+.upload-vector4 {
+  width: 52px;
+  height: 66px;
+  position: relative;
+  margin-right: 31px;
+}
+.upload-text27 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 26px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
