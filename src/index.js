@@ -1,21 +1,17 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
+import ReactDOM from 'react-dom/client';
 import App from './App';
 import Upload from './Upload';
+import Upload2 from './Upload2';
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import Navbar from './Navbar';
+import Temp from './Temp';
 
-ReactDOM.render(
-<Router>
-    <Routes>
-      <Route exact path="/" element={<App />} />
-      <Route path="/upload" element={<Upload />} />
-      <Route path="/contact" element={<App />} /> 
-      {/* <Route path="/blog" element={<Blog />}>
-        <Route path="" element={<Posts />} />
-        <Route path=":postSlug" element={<Post />} />
-      </Route> */}
-    </Routes>
-  </Router>,
-// </React.StrictMode>,
-document.getElementById('root')
+const root = ReactDOM.createRoot(document.getElementById("root"));
+root.render(
+  <React.StrictMode>
+    <Temp/>
+  </React.StrictMode>
 );
+
+

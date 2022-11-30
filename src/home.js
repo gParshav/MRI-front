@@ -1,7 +1,8 @@
 
 function home() {
   return (
-    <><div className="home-logo-grp">
+    <>
+    {/* <div className="home-logo-grp">
       <img
         src="/playground_assets/image360f3237066646xfxxctzds9oooxmdmsgc1fsomgmgaec9110-j4bj-300h.png"
         alt="IMAGE360F3237066646xfXXctzdS9oOOxMdMsGc1FsomGmGaEC9110"
@@ -10,7 +11,8 @@ function home() {
         <span className="home-text01">MRI</span>
         <span>fix</span>
       </span>
-    </div><div className="home-frame3">
+    </div> */}
+    <div className="home-frame3">
         <span className="home-text03">
           <span>Deliver accurate and timely healthcare</span>
         </span>

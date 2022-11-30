@@ -1,0 +1,83 @@
+.navbar{
+    height: 70px;
+    width: 100%;
+    /* position: absolute; */
+    top: 0px;
+    background-color: antiquewhite;
+    display: flex;
+
+}
+
+.maal1{
+    width: 50%;
+}
+
+.home-logo-grp {
+    height: 20px;
+    width: 20px;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    position: absolute;
+    align-items: center;
+    border-color: transparent;
+}
+
+.home-text {
+    color: rgba(0, 207, 189, 1);
+    height: auto;
+    font-size: 30px;
+    align-self: auto;
+    font-style: Black;
+    text-align: left;
+    font-family: Lato;
+    font-weight: 900;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+    margin-top: 40px;
+  }
+  
+
+.home-text01 {
+    color: rgba(0, 207, 189, 1);
+  }
+
+.home-i-m-a-g-e360f3237066646xf-x-xctzd-s9o-o-ox-md-ms-gc1fsom-gm-ga-e-c {
+    width: 150px;
+    height: 120px;
+    position: relative;
+    border-color: transparent;
+    margin-top: 40px;
+    /* margin-right: -123px; */
+  }
+
+.maal2{
+    width: 50%;
+    display: flex;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+.home {
+    margin-right: 80px;
+}
+
+
+.home{
+    color: black;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.upload {
+    color: black;
+    font-weight: 600;
+    font-size: 20px;    
+}
