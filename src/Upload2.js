@@ -14,7 +14,7 @@ function Upload2() {
   };
 
   const handlekaand = () => {
-    axios.post("http://127.0.0.1:5000/", {
+    axios.post("http://127.0.0.1:5000/mri", {
       images,  
     }).then((result) => {
       console.log(result.data)
